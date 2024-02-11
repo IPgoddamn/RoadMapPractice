@@ -1,0 +1,5 @@
+N       Bottle    Volume    Material
+1       Wine      0.5       Glass
+2       Juice     1         Metal
+3       Water     0.75      Metal
+101     Beer      0.33      Paper
